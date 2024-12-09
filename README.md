@@ -6,17 +6,17 @@ This repository contains my solution for the Kaggle Playground Series Season 4, 
 
 ```
 ├── data/               # Data files
-├── notebooks/          # Jupyter notebooks
-├── src/               # Source code
-├── requirements.txt   # Python dependencies
-└── README.md         # This file
+├── Kaggle_Competition.ipynb # Data files
+├── requirements.txt    # Python dependencies
+├── submission.csv      # Submission File
+└── README.md           # This file
 ```
 
 ## Setup
 
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebooks in the `notebooks/` directory
+3. Run the notebook
 
 ## Data
 

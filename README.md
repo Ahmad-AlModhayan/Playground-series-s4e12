@@ -23,6 +23,15 @@ The dataset includes various features related to insurance policies:
 - Policy details (Policy Type, Insurance Duration)
 - And more...
 
+├── data/               # Data files
+├── Kaggle_Competition.ipynb # Data files
+├── requirements.txt    # Python dependencies
+├── submission.csv      # Submission File
+└── README.md           # This file
+```
+ 
+## Setup
+
 ## Approach
 1. **Data Preprocessing**
    - Handle missing values

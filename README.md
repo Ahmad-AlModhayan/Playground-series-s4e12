@@ -12,6 +12,7 @@ This project is part of the Kaggle Playground Series Season 4, Episode 12, focus
 ├── Insurance_Premium_Prediction.ipynb  # Main notebook with all code
 ├── requirements.txt        # Python dependencies
 └── README.md              # Project documentation
+
 ```
 
 ## Features
@@ -27,6 +28,7 @@ The dataset includes various features related to insurance policies:
    - Handle missing values
    - Feature scaling
    - Categorical encoding
+
 
 2. **Feature Engineering**
    - Date feature extraction

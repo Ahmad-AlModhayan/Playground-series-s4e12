@@ -41,7 +41,7 @@ data/*.h5
 data/*.json
 data/*.parquet
 Overview.md
-
+insurance_premium_prediction.py
 # Logs
 *.log
 
